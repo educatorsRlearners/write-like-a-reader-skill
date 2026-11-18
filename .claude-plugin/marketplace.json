@@ -1,0 +1,15 @@
+{
+  "name": "write-like-a-reader",
+  "owner": {
+    "name": "Evan Simpson",
+    "url": "https://github.com/educatorsRlearners"
+  },
+  "plugins": [
+    {
+      "name": "write-like-a-reader",
+      "source": "./",
+      "description": "Claude reads its own expository prose as the reader would, and closes the gaps before delivering the text.",
+      "version": "0.1.0"
+    }
+  ]
+}
