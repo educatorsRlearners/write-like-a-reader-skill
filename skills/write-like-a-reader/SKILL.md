@@ -1,6 +1,6 @@
 ---
 name: write-like-a-reader
-description: This skill should be used when writing or substantially revising expository prose of more than a couple of paragraphs that explains, argues, informs, or instructs (a blog post, essay, report, proposal, guide, documentation, long email), or when the user asks to check, tighten, or clarify a draft from the reader's side. It silently reviews the text as the intended reader would and closes unanswered questions before delivery. Not for code, config, commit messages, short replies, small edits, or fiction and poetry.
+description: ALWAYS use this skill before writing or substantially revising any blog post, essay, article, report, proposal, guide, documentation, README, or long email, or any text of more than a couple of paragraphs that explains, argues, informs, or instructs. Also use it when the user asks to check, tighten, or clarify a draft from the reader's side. Invoke it first, before drafting. It applies silently. Not for code, config, commit messages, short replies, small edits, or fiction and poetry.
 ---
 
 # Write Like a Reader
