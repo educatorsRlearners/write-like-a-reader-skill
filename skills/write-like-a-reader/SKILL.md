@@ -33,6 +33,8 @@ Skip it for code, configuration, commit messages, short replies, edits of a sent
    - restructure the passage;
    - cut or soften a claim you cannot support.
 
+   When the user asked you to revise, always return the revised text. Cut or soften claims you cannot support. If one missing fact matters, ask for it in one plain sentence after the text. Name the missing fact, not the reader's questions.
+
 6. **Re-read what you changed.** Fixes raise new questions. Re-read the changed passages once more, then stop. Two passes in all.
 
 7. **Deliver the text.**
