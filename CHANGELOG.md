@@ -3,6 +3,14 @@
 All notable changes to this project are documented here.
 The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and the project uses [semantic versioning](https://semver.org/).
 
+## [0.1.2] - 2026-11-20
+
+### Changed
+
+- Reply in exactly two sentences when one missing fact blocks the piece: the first names the fact, the second asks for it.
+- Rewrite the worked examples. They now separate Claude's own drafts from the user's, show the missing-fact reply, and show a revision that keeps every claim the user wrote.
+- Remove "proofread" from the trigger, since grammar checks are out of scope, and fix the grammar of the description.
+
 ## [0.1.1] - 2026-11-20
 
 ### Changed
