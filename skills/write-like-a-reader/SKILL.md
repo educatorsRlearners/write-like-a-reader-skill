@@ -1,6 +1,6 @@
 ---
 name: write-like-a-reader
-description: ALWAYS use this skill before writing or substantially revising any blog post, essay, article, report, proposal, guide, documentation, README, or long email, or any text of more than a couple of paragraphs that explains, argues, informs, or instructs. Also use it when the user asks to check, tighten, or clarify a draft from the reader's side. Invoke it first, before drafting. It applies silently. Not for code, config, commit messages, short replies, small edits, or fiction and poetry.
+description: ALWAYS use this skill before writing or substantially revising any blog post, essay, article, report, proposal, guide, documentation, README, or long email, or any text of more than a couple of paragraphs that explains, argues, informs, or instructs. Also use it when the user asks to check, tighten, revise, proofread, or clarify a draft from the reader's side. Invoke it first, before drafting. It applies silently. Not for code, config, commit messages, short replies, small edits, fiction, nor poetry.
 ---
 
 # Write Like a Reader
@@ -33,7 +33,7 @@ Skip it for code, configuration, commit messages, short replies, edits of a sent
    - restructure the passage;
    - cut or soften a claim you cannot support.
 
-   Do not state statistics, study results, quotes, or sources from memory. If the user asked for them and none are in the project, the conversation, or command output, leave them out and say what you left out. If one fact blocks the whole piece, ask for it in a single question, never a list.
+   Do not state statistics, study results, quotes, or sources from memory. If the user asked for them and none are in the project, the conversation, or command output, leave them out and say what you left out. If one fact blocks the whole piece, reply in exactly two sentences. The first says which fact is missing. The second asks for it as one question. Add nothing else: no examples, formats, options, or plan.
 
    When the user asked you to revise, always return the revised text. Never cut or soften a claim the user wrote. If a claim of theirs lacks support, leave it and say so in one plain sentence after the text, naming the claim and the fact that would support it. Say this only about text you wrote or changed. When the user asked you to add to a text, say nothing about the rest of it.
 
