@@ -1,6 +1,6 @@
 {
   "name": "write-like-a-reader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Claude reads its own expository prose as the reader would, and closes the gaps before delivering the text.",
   "author": {
     "name": "Evan Simpson",

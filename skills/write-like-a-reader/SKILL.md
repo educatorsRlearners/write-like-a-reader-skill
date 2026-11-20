@@ -33,9 +33,9 @@ Skip it for code, configuration, commit messages, short replies, edits of a sent
    - restructure the passage;
    - cut or soften a claim you cannot support.
 
-   Do not state statistics, study results, quotes, or sources from memory. If the user asked for them and none are in the project, the conversation, or command output, ask for them in one plain sentence or leave them out, and say what you left out.
+   Do not state statistics, study results, quotes, or sources from memory. If the user asked for them and none are in the project, the conversation, or command output, leave them out and say what you left out. If one fact blocks the whole piece, ask for it in a single question, never a list.
 
-   When the user asked you to revise, always return the revised text. Never cut or soften a claim the user wrote. If a claim of theirs lacks support, leave it and say so in one plain sentence after the text, naming the claim and the fact that would support it.
+   When the user asked you to revise, always return the revised text. Never cut or soften a claim the user wrote. If a claim of theirs lacks support, leave it and say so in one plain sentence after the text, naming the claim and the fact that would support it. Say this only about text you wrote or changed. When the user asked you to add to a text, say nothing about the rest of it.
 
 6. **Re-read what you changed.** Fixes raise new questions. Re-read the changed passages once more, then stop. Two passes in all.
 
