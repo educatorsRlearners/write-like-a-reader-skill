@@ -106,4 +106,4 @@ Ignore the rest:
 - questions the document answers in the next sentence;
 - questions that would need a paragraph to answer and deserve a clause at most.
 
-When a question needs a fact you cannot find, ask the user one plain question, or cut the claim.
+When a question needs a fact that is not in the project, the conversation, or command output, do not supply it from memory. If the claim is yours, ask the user one plain question, or cut or soften the claim. If the claim is the user's, leave it in the text. Tell the user in one sentence which claim lacks support and what fact would support it.
